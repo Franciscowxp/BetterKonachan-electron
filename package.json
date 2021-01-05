@@ -41,7 +41,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "electron-download-manager": "^2.1.2",
     "@trodi/electron-splashscreen": "^1.0.0",
